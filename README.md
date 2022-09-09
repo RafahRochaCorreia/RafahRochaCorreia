@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Rafael Rocha Correia, Seja bem vindo ao meu perfil do GitHub.
 
-- 🔭 Estudante de Inglês pela Conquer English!
+- 🔭 Estudante de Inglês!
 - 🌱 Estudante de Desenvolvimento Web pela Trybe!
 
 
