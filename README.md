@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Rafael Rocha Correia, Seja bem vindo ao meu perfil do GitHub.
 
 - 🔭 Estudante de Inglês!
-- 🌱 Estudante de Desenvolvimento Web pela Trybe! :rocket:
+- 🌱 Full Stack Web Development Student
 
 
 <div align="center">
